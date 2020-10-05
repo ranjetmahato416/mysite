@@ -1,2 +1,2 @@
 # mysite
-Tool for analyzing text data in django backend
+Tool for analyzing text data in django backend.
